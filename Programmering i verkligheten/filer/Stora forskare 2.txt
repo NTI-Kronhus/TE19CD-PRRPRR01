@@ -5,3 +5,4 @@ Albert Einstein 1879-03-14
 Carl Friedrich Gauss 1799-04-30
 Stephen Hawking 1942-01-08
 Andrew Wiles 1953-04-11
+Pierre Curie 1859-05-15
