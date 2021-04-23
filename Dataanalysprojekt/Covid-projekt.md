@@ -97,7 +97,7 @@ När er planering är godkänd får ni börja skriva kod.
 - Använda funktioner för att strukturera upp och återanvända kod*
 - Variabelnamn ska vara beskrivande*
 - Skapa minst fyra unika diagram som visualiserar datan* 
-- Använda subplots för att visualisera flera diagram på ett figure-fönster
+- Använda subplots för att visualisera flera diagram på ett figure-fönster (subplot)
 - Använda plotly express eller plotly graph objects för att rita grafer
 - Använda plotly dash för att skapa en dashboard
 - Använda dash bootstrap components för att ge stil till din dashboard
