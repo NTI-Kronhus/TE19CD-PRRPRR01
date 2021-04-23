@@ -96,9 +96,9 @@ När er planering är godkänd får ni börja skriva kod.
 - Kommenterad kod med korrekt användning av datavetenskaplig terminologi*
 - Använda funktioner för att strukturera upp och återanvända kod*
 - Variabelnamn ska vara beskrivande*
-- Skapa minst fyra unika diagram som visualiserar datan*
+- Skapa minst fyra unika diagram som visualiserar datan* 
 - Använda subplots för att visualisera flera diagram på ett figure-fönster
-- Använda plotly express för att rita grafer
+- Använda plotly express eller plotly graph objects för att rita grafer
 - Använda plotly dash för att skapa en dashboard
 - Använda dash bootstrap components för att ge stil till din dashboard
 - Lägg till interaktiva delar i din dashboard, ex att låta användaren få välja vad som ska visualiseras. (svår)
